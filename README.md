@@ -1,16 +1,16 @@
-## Hi there 👋
+AI & Software Engineer | Python, ML, Full-Stack | Learning AWS Cloud 
 
-<!--
-**gayatri1064/gayatri1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! Gayatri this side.
+I build intelligent systems and production-ready applications.
+Experience across AI pipelines (OCR, NLP, LLM-based classification), 
+full-stack development (React, Angular, Flutter), and backend services.
 
-Here are some ideas to get you started:
+Previously:
+• AI Engineering Intern – worked on document intelligence, OCR & layout-aware pipelines
+• Built AI-powered PDF analysis system (Adobe India Hackathon – Top 100 teams across India)
+• Developed behavioral biometrics system for keystroke-based user verification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+• AWS Cloud (EC2, S3, IAM, basic deployment)
+
+I enjoy working on real-world problems, clean code, and open-source contributions.
