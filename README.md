@@ -1,6 +1,5 @@
-AI & Software Engineer | Python, ML, Full-Stack | Learning AWS Cloud 
-
 Hello! Gayatri this side.
+
 I build intelligent systems and production-ready applications.
 Experience across AI pipelines (OCR, NLP, LLM-based classification), 
 full-stack development (React, Angular, Flutter), and backend services.
